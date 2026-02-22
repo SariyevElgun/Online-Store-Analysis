@@ -1,8 +1,8 @@
-# Blinkit Sales Dashboard – README
+# Online Store Sales Dashboard – README
 
 ## Overview
 
-The **Blinkit Sales Dashboard** provides an interactive overview of sales performance across outlets, item categories, outlet sizes, locations, and types. It is designed to help stakeholders quickly understand key metrics, trends over time, and category-level performance.
+The ** Online Store Sales Dashboard** provides an interactive overview of sales performance across outlets, item categories, outlet sizes, locations, and types. It is designed to help stakeholders quickly understand key metrics, trends over time, and category-level performance.
 
 ## Key KPIs
 
@@ -81,4 +81,4 @@ A detailed table comparing outlet types:
 
 ---
 
-**Blinkit Sales Dashboard** enables fast, data-driven insights through a clean and interactive visual experience.
+**Online Store Sales Dashboard** enables fast, data-driven insights through a clean and interactive visual experience.
